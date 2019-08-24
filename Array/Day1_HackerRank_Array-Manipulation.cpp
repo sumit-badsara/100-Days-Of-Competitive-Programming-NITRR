@@ -1,5 +1,5 @@
 /*
-    Platform : HackerEarth
+    Platform : HackerRank
     Problem URL : https://www.hackerrank.com/challenges/array-manipulation
     Extra URL : https://www.geeksforgeeks.org/constant-time-range-add-operation-array/
     

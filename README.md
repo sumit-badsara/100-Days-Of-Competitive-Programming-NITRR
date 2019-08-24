@@ -1,6 +1,6 @@
 # 100-Days-Of-Competitive-Programming-Nitrr-NITRR
 
-### Day-1 : HackerEarth DS: Array (Solved)
+### Day-1 : HackerRank DS: Array (Solved)
 
 - Arrays - DS [Easy]: https://www.hackerrank.com/challenges/arrays-ds
 

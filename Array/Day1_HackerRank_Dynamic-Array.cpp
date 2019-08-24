@@ -1,5 +1,5 @@
 /*
-    Platform : HackerEarth
+    Platform : HackerRank
     Problem URL : https://www.hackerrank.com/challenges/dynamic-array
  */
 
