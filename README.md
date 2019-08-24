@@ -1,4 +1,4 @@
-# 100-Days-Of-Competitive-Programming-Nitrr-NITRR
+# 100DaysOfCompetitiveProgrammingNITRR
 
 ### Day-1 : HackerRank DS: Array (Solved)
 
