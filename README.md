@@ -16,4 +16,6 @@
 
 ### Day-2 : Running Median
 
-- Learnt a new concept of running median.
+- C++ Implementation using STL [Medium]: https://www.geeksforgeeks.org/median-of-stream-of-running-integers-using-stl/
+
+- C++ Implementation [Hard]: https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/
