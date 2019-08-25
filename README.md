@@ -14,3 +14,6 @@
 
 - Array Manipulation [Hard] : https://www.hackerrank.com/challenges/array-manipulation
 
+### Day-2 : Running Median
+
+- Learnt a new concept of running median.
