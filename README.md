@@ -19,3 +19,10 @@
 - C++ Implementation using STL [Medium]: https://www.geeksforgeeks.org/median-of-stream-of-running-integers-using-stl/
 
 - C++ Implementation [Hard]: https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/
+
+### Day-3 : Linked List Day
+
+- Implemented Linked List in C++
+
+- Solved all Linked List problems on Hackerrank [ Problem Solving for Linked List ]
+
