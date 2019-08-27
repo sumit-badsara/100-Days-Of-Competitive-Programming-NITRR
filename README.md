@@ -26,3 +26,11 @@
 
 - Solved all Linked List problems on Hackerrank [ Problem Solving for Linked List ]
 
+### Day-4 : Binary Tree
+
+- Implemented Binary Tree in C++
+
+- Implemented : Pre/Post/In Order Traversal, Level Order Traversal, Insertion and Top View of Binary Tree
+
+- Solved 7 Problems of Binary Tree on HackerRank : https://www.hackerrank.com/domains/data-structures?filters[subdomains][]=trees
+
