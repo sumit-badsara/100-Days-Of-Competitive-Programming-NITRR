@@ -34,3 +34,6 @@
 
 - Solved 7 Problems of Binary Tree on HackerRank : https://www.hackerrank.com/domains/data-structures?filters[subdomains][]=trees
 
+### Day-5 : Recursion and DP
+
+- Didn't do much today, tried some DP and Recursion problems, but couldn't solve any.
