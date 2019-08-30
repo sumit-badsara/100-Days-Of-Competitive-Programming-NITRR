@@ -45,3 +45,7 @@
 - Solved 1 Array Question
 
 - CSES Problemset: Introductory Problems [Beginner].
+
+### Day-7 : LeetCode 
+
+- Solved 1 String Question [Medium] : https://leetcode.com/problems/longest-substring-without-repeating-characters/ 
