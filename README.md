@@ -37,3 +37,13 @@
 ### Day-5 : Recursion and DP
 
 - Didn't do much today, tried some DP and Recursion problems, but couldn't solve any.
+
+### Day-6 : InterviewBit: Started Programming Track
+
+- Solved Time Complexity Questions : https://www.interviewbit.com/courses/programming/topics/time-complexity/
+
+- Solved 1 Array Question
+
+### Day-7: CSES Problemset: Introductory Problems
+
+- Solved Introductory problems on CSES [Beginner].
