@@ -49,3 +49,9 @@
 ### Day-7 : LeetCode 
 
 - Solved 1 String Question [Medium] : https://leetcode.com/problems/longest-substring-without-repeating-characters/ 
+
+### Day-8 : LeetCode | Top 100 Liked 
+
+- Two Sum [Easy] : https://leetcode.com/problems/two-sum/submissions/
+
+- Add Two Numbers [Medium] : https://leetcode.com/problems/add-two-numbers/submissions/
