@@ -62,9 +62,11 @@
 
 ### Day-10 : Random GeeksForGeeks problems
 
-- Solved 2 problems from GeeksforGeeks
+- Solved 3 problems from GeeksforGeeks
 
 - 1. [Easy] Remove duplicates from array in place.
 
 - 2. [Easy] Recursive implementation to print numbers from m to n.
+
+- 3. [Easy-Medium] Print array in spiral form.
 
