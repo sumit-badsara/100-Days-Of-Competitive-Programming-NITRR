@@ -59,3 +59,12 @@
 ### Day-9 : Interview experiences
 
 - Read about interview experiences of various companies and competitive questions asked in them.
+
+### Day-10 : Random GeeksForGeeks problems
+
+- Solved 2 problems from GeeksforGeeks
+
+- 1. [Easy] Remove duplicates from array in place.
+
+- 2. [Easy] Recursive implementation to print numbers from m to n.
+
