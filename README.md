@@ -77,3 +77,11 @@
 
  - Learnt about DP concepts and bottom-up.
  
+
+### Day-12 : DS Implementations and CTCI Solutions
+
+ - Implemented following Data structures : Stack, Linked List, Doubly Linked List, Binary Tree
+
+ - Solved Some of the questions from Chapter 1 from CTCI.
+
+ 
